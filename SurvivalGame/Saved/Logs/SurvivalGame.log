@@ -972,3 +972,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.13-04.39.28:021][211]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/HUD]
 [2019.07.13-04.39.28:038][211]LogSavePackage: Moving '../../../../../../Users/marti/Documents/GitHub/First-Unreal-Project/SurvivalGame/Saved/HUD_Auto35476A48C49E4432396985C8559E050E3.tmp' to '../../../../../../Users/marti/Documents/GitHub/First-Unreal-Project/SurvivalGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/HUD_Auto3.uasset'
 [2019.07.13-04.39.28:040][211]LogFileHelpers: Auto-saving content packages took 0.019
+[2019.07.13-04.47.21:148][794]LogHttp: Warning: 000002372A9FA200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.13-04.47.21:148][794]LogHttp: Warning: 000002372A9FA200: libcurl info message cache 0 (Connection 18 seems to be dead!)
+[2019.07.13-04.47.21:148][794]LogHttp: Warning: 000002372A9FA200: libcurl info message cache 1 (Closing connection 18)
+[2019.07.13-04.47.21:148][794]LogHttp: Warning: 000002372A9FA200: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.07.13-04.47.21:148][794]LogHttp: Warning: 000002372A9FA200: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.13-04.47.21:148][794]LogHttp: Warning: 000002372A9FA200: libcurl info message cache 4 (Closing connection 19)
+[2019.07.13-04.47.21:148][794]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF2B00934-49BC-9CA5-058D-E692CE58D0D0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=07e8c4aa42182f5cd7363c8b8d33c3b4%7C97a16acd40904ac79d8510548dbef0f9%7Cc875f4cc-e46b-4673-a717-79a1023fb9d0&AppEnvironment=datacollector-binary&UploadType=eteventstream
